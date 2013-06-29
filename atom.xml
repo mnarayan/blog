@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Blog]]></title>
+  <link href="http://mnarayan.github.com/blog/atom.xml" rel="self"/>
+  <link href="http://mnarayan.github.com/blog/"/>
+  <updated>2013-06-29T17:58:09-05:00</updated>
+  <id>http://mnarayan.github.com/blog/</id>
+  <author>
+    <name><![CDATA[Manjari]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Testing Latex2Markdown]]></title>
+    <link href="http://mnarayan.github.com/blog/blog/2013/03/02/testing-latex2markdown/"/>
+    <updated>2013-03-02T13:08:00-06:00</updated>
+    <id>http://mnarayan.github.com/blog/blog/2013/03/02/testing-latex2markdown</id>
+    <content type="html"><![CDATA[<h3 id="example-section">Example Section</h3>
+
+<h4 id="theorem-1-euclid">Theorem 1 (Euclid)</h4>
+
+<blockquote>
+  <p>There are infinitely many primes.</p>
+</blockquote>
+
+<h4 id="proof">Proof</h4>
+
+<p>Suppose that <script type="math/tex">% &lt;![CDATA[
+p_1 < p_2 < \dots < p_n %]]&gt;</script> are all of the primes.
+Let <script type="math/tex">P = 1 + \prod_{i=1}^n p_i</script> and let $p$ be a prime dividing $P$.</p>
+
+<p>Then $p$ can not be any of $p_i$, for otherwise $p$ would divide the
+difference <script type="math/tex">P - \left(\prod_{i=1}^n p_i \right) - 1</script>, which is impossible.
+So this prime $p$ is still another prime, and <script type="math/tex">p_1, p_2, \dots p_n</script>
+cannot be all of the primes.</p>
+]]></content>
+  </entry>
+  
+</feed>

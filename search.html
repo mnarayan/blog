@@ -9,9 +9,7 @@
   <meta name="author" content="Manjari">
 
   
-  <meta name="description" content="Example Section Theorem 1 (Euclid) There are infinitely many primes. Proof Suppose that % <![CDATA[
-p_1 are all of the primes.
-Let and let $p$ be a &hellip;">
+  <meta name="description" content="Search Results $('#search_results').tapir({ 'token': '', 'complete' : function() { document.getElementById('search_loading').style.display="none &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -20,7 +18,7 @@ Let and let $p$ be a &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://mnarayan.github.com/blog/">
+  <link rel="canonical" href="http://mnarayan.github.com/blog/search.html">
   <link href="/blog/favicon.png" rel="icon">
   <link href="/blog/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/blog/javascripts/modernizr-2.0.js"></script>
@@ -94,88 +92,22 @@ Let and let $p$ be a &hellip;">
 </nav>
   <div id="main">
     <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/blog/2013/03/02/testing-latex2markdown/">Testing Latex2Markdown</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-03-02T13:08:00-06:00" pubdate data-updated="true">Mar 2<span>nd</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h3 id="example-section">Example Section</h3>
-
-<h4 id="theorem-1-euclid">Theorem 1 (Euclid)</h4>
-
-<blockquote>
-  <p>There are infinitely many primes.</p>
-</blockquote>
-
-<h4 id="proof">Proof</h4>
-
-<p>Suppose that <script type="math/tex">% <![CDATA[
-p_1 < p_2 < \dots < p_n %]]></script> are all of the primes.
-Let <script type="math/tex">P = 1 + \prod_{i=1}^n p_i</script> and let $p$ be a prime dividing $P$.</p>
-
-<p>Then $p$ can not be any of $p_i$, for otherwise $p$ would divide the
-difference <script type="math/tex">P - \left(\prod_{i=1}^n p_i \right) - 1</script>, which is impossible.
-So this prime $p$ is still another prime, and <script type="math/tex">p_1, p_2, \dots p_n</script>
-cannot be all of the primes.</p>
+      <h1 class="entry-title"><center>Search Results</center></h1>
+<div id="search_loading" style="margin: 40px 0">
+    <center><img src="/blog/images/loading.gif"></center>
 </div>
-  
-  
 
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/blog/archives">Blog Archives</a>
-    
-  </div>
+<script type="text/javascript" src="/blog/javascripts/jquery-tapir.js"></script>
+<div id="search_results" style="display:none">
+<br>
 </div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/blog/2013/03/02/testing-latex2markdown/">Testing Latex2Markdown</a>
-      </li>
-    
-  </ul>
-</section>
+<script>
+         $('#search_results').tapir({
+             'token': '',
+             'complete' : function() { document.getElementById('search_loading').style.display="none"; }
+         });
+</script>
 
-
-
-
-
-
-  
-</aside>
 
     </div>
   </div>

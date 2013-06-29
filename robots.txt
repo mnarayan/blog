@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mnarayan.github.com/blog/sitemap.xml 
