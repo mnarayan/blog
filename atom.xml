@@ -4,7 +4,7 @@
   <title><![CDATA[My Blog]]></title>
   <link href="http://mnarayan.github.com/blog/atom.xml" rel="self"/>
   <link href="http://mnarayan.github.com/blog/"/>
-  <updated>2013-06-29T17:58:09-05:00</updated>
+  <updated>2013-06-29T18:15:08-05:00</updated>
   <id>http://mnarayan.github.com/blog/</id>
   <author>
     <name><![CDATA[Manjari]]></name>
@@ -36,6 +36,15 @@ Let <script type="math/tex">P = 1 + \prod_{i=1}^n p_i</script> and let $p$ be a 
 difference <script type="math/tex">P - \left(\prod_{i=1}^n p_i \right) - 1</script>, which is impossible.
 So this prime $p$ is still another prime, and <script type="math/tex">p_1, p_2, \dots p_n</script>
 cannot be all of the primes.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Testing Octopress]]></title>
+    <link href="http://mnarayan.github.com/blog/blog/2013/02/28/testing-octopress/"/>
+    <updated>2013-02-28T18:50:00-06:00</updated>
+    <id>http://mnarayan.github.com/blog/blog/2013/02/28/testing-octopress</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

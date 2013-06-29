@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tests | My Blog]]></title>
+  <link href="http://mnarayan.github.com/blog/blog/categories/tests/atom.xml" rel="self"/>
+  <link href="http://mnarayan.github.com/blog/"/>
+  <updated>2013-06-29T18:15:08-05:00</updated>
+  <id>http://mnarayan.github.com/blog/</id>
+  <author>
+    <name><![CDATA[Manjari]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Testing Octopress]]></title>
+    <link href="http://mnarayan.github.com/blog/blog/2013/02/28/testing-octopress/"/>
+    <updated>2013-02-28T18:50:00-06:00</updated>
+    <id>http://mnarayan.github.com/blog/blog/2013/02/28/testing-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
