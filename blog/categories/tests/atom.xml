@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tests | My Blog]]></title>
   <link href="http://mnarayan.github.com/blog/blog/categories/tests/atom.xml" rel="self"/>
   <link href="http://mnarayan.github.com/blog/"/>
-  <updated>2013-06-29T18:15:08-05:00</updated>
+  <updated>2013-06-29T18:24:01-05:00</updated>
   <id>http://mnarayan.github.com/blog/</id>
   <author>
     <name><![CDATA[Manjari]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Testing Octopress]]></title>
-    <link href="http://mnarayan.github.com/blog/blog/2013/02/28/testing-octopress/"/>
+    <link href="http://mnarayan.github.com/blog/2013/02/28/testing-octopress/"/>
     <updated>2013-02-28T18:50:00-06:00</updated>
-    <id>http://mnarayan.github.com/blog/blog/2013/02/28/testing-octopress</id>
+    <id>http://mnarayan.github.com/blog/2013/02/28/testing-octopress</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

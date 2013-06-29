@@ -4,7 +4,7 @@
   <title><![CDATA[Category: theorem | My Blog]]></title>
   <link href="http://mnarayan.github.com/blog/blog/categories/theorem/atom.xml" rel="self"/>
   <link href="http://mnarayan.github.com/blog/"/>
-  <updated>2013-06-29T18:15:08-05:00</updated>
+  <updated>2013-06-29T18:24:01-05:00</updated>
   <id>http://mnarayan.github.com/blog/</id>
   <author>
     <name><![CDATA[Manjari]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Testing Latex2Markdown]]></title>
-    <link href="http://mnarayan.github.com/blog/blog/2013/03/02/testing-latex2markdown/"/>
+    <link href="http://mnarayan.github.com/blog/2013/03/02/testing-latex2markdown/"/>
     <updated>2013-03-02T13:08:00-06:00</updated>
-    <id>http://mnarayan.github.com/blog/blog/2013/03/02/testing-latex2markdown</id>
+    <id>http://mnarayan.github.com/blog/2013/03/02/testing-latex2markdown</id>
     <content type="html"><![CDATA[<h3 id="example-section">Example Section</h3>
 
 <h4 id="theorem-1-euclid">Theorem 1 (Euclid)</h4>
