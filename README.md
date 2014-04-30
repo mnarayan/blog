@@ -1,2 +1,2 @@
-manjari.github.com
+Visit my [blog](http://mnarayan.github.io/blog)
 ==================
